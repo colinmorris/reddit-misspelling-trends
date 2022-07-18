@@ -1,0 +1,73 @@
+# us/uk variant
+#fulfill,fulfil
+# imperfect precision ("factors which lead to")
+#which led to,which lead to
+weird,wierd
+# NB: sieze is also a German word, but doesn't seem to be a significant source of false +ves
+seize,sieze
+# ocasion is es
+#occasion,occassion,ocassion,ocasion
+consensus,concensus,consencus,concencus
+separate,seperate
+existence,existance
+cemetery,cemetary,cematery,cematary
+which led to,which lead to
+have led to,heave lead to
+take a peek,take a peak
+big effect,big affect
+their,thier
+independence,independance
+acquire,aquire
+# accomodate is an italian word, but not a significant source of false +ves
+accommodate,acommodate,accomodate
+# calender is a rare English word, but nassofp
+calendar,calender
+liaison,liason,liasion
+necessary,neccessary,necessery,necesary,necassery
+until,untill
+acknowledge,acknowlege,aknowledge
+# adress is Swedish
+#address,adress
+# fr
+#aggression,agression
+# fr
+#aggressive,agressive
+annually,anually,annualy
+caribbean,carribean
+definite,definate
+definitely,definately
+desperate,desparate
+# dilema is a word in various romance languages
+#dilemma,dilema,dillema,dillemma
+embarrass,embarass
+fluorescent,flourescent
+grateful,gratefull,greatful
+harass,harrass
+ignorance,ignorence
+# it
+#inoculate,innoculate
+marshmallow,marshmellow
+# Now considered an acceptable alt spelling (at least by some)
+#minuscule,miniscule
+noticeable,noticable
+potatoes,potatos
+# Welsh, but nassofp
+tomatoes,tomatos
+precede,preceed
+# es
+#professor,professer,profesor
+surprise,suprise
+successful,succesful,successfull,sucessful
+tomorrow,tommorow,tommorrow
+pronunciation,pronounciation
+# es
+#memento,momento
+amateur,amatuer,amature
+# acceptable alt spelling to some
+#dumbbell,dumbell
+pursue,persue
+appalling,appaling,apalling
+perceive,percieve
+environment,enviroment,enviorment
+assessment,assesment,asessment
+ninth,nineth
